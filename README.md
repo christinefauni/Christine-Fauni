@@ -1,37 +1,32 @@
-<h1 style="text-align:center; color:#2c3e50;">
-  Hi, I'm Christine 👋
-</h1>
-
-<p style="text-align:center; font-size:16px;">
+<h1 align="center">Hi, I'm Christine 👋</h1>
+<p align="center">
   BSIT Student | Web Development | Machine Learning
 </p>
 
 <hr>
 
-<h2 style="color:#34495e;">👩‍💻 About Me</h2>
-<p style="font-size:15px; line-height:1.6;">
-  I am a Bachelor of Science in Information Technology student with interests in
-  web development, database systems, and machine learning. I enjoy building
-  academic and personal projects.
+<h2>👩‍💻 About Me</h2>
+<p>
+I am a BSIT student passionate about building web applications and
+machine learning-based systems.
 </p>
 
-<h2 style="color:#34495e;">🛠 Skills</h2>
-<ul style="font-size:15px;">
-  <li>HTML, CSS, JavaScript</li>
-  <li>Python</li>
-  <li>MySQL</li>
-  <li>Firebase</li>
-</ul>
+<h2>🛠 Tech Stack</h2>
 
-<h2 style="color:#34495e;">📂 Projects</h2>
-<ul style="font-size:15px;">
-  <li>Signal Strength Prediction System</li>
-  <li>Signage Business Management System</li>
-</ul>
-
-<h2 style="color:#34495e;">📫 Contact</h2>
-<p style="font-size:15px;">
-  Email: <a href="mailto:your-email@gmail.com">your-email@gmail.com</a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
 </p>
-Sent
-Write to
+
+<h2>📂 Projects</h2>
+<ul>
+  <li><b>Signal Strength Prediction System</b></li>
+  <li><b>Signage Business Management System</b></li>
+</ul>
+
+<h2>📫 Contact</h2>
+<p>Email: your-email@gmail.com</p>
