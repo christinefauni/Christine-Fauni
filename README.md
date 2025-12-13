@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **christinefauni005@gmail.com**
 
-- ⚡ Fun fact **I'm good in vibe coding;p**
+- ⚡ Fun fact **I'm good in vibe coding ;p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
