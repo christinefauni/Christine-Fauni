@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Christine 👋</h1>
 <p align="center">
-  BSIT Student | Web Development | Machine Learning
+  BSCS Student | Web Development | Machine Learning
 </p>
 
 <hr>
 
 <h2>👩‍💻 About Me</h2>
 <p>
-I am a BSIT student passionate about building web applications and
+I am a BSCS student passionate about building web applications and
 machine learning-based systems.
 </p>
 
