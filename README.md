@@ -1,16 +1,94 @@
-<h1 align="center">Hi 👋, I'm Christine Fauni</h1>
-<h3 align="center">3rd Year Computer Science Student | Aspiring Software Developer</h3>
+<div align="center">
 
-- 🌱 I’m currently studying in **Pampanga State University**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:F0ABFC&height=180&section=header&text=Christine%20Fauni&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Learning.%20Building.%20Vibe%20coding.&descSize=17&descAlignY=60" width="100%" alt="Christine Fauni — Learning. Building. Vibe coding." />
 
-- 📫 How to reach me **christinefauni005@gmail.com**
+### Hey there, I'm Christine! 👋
 
-- ⚡ Fun fact **I'm good in vibe coding ;p**
+**3rd Year Computer Science Student · Aspiring Software Developer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fauni-christine-mae-marcos-4a741b393/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fauni-christine-mae-marcos-4a741b393/" height="30" width="40" /></a>
+Turning ideas into little things that work — one bug at a time. ✨
+
+<a href="https://www.linkedin.com/in/fauni-christine-mae-marcos-4a741b393/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_Connect-7C3AED?style=for-the-badge" alt="Connect with Christine on LinkedIn" /></a>
+<a href="mailto:christinefauni005@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Christine" /></a>
+
+</div>
+
+<br />
+
+## 🪄 A little about me
+
+- 🎓 Studying Computer Science at **Pampanga State University**
+- 🌱 Learning, experimenting, and growing into a software developer
+- 🛠️ Turning “what if?” ideas into “hey, it works!” moments
+- ⚡ Fun fact: **I'm good at vibe coding ;p**
+- 📬 Reach me at **[christinefauni005@gmail.com](mailto:christinefauni005@gmail.com)**
+
+<br />
+
+## 🎒 My developer toolkit
+
+A collection of languages and tools I use and explore.
+
+**🌐 Web development**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**💻 Programming languages**
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+**🗃️ Databases & backend tools**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+**🎨 Design & everyday tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+<br />
+
+<details>
+<summary><b>🎮 A tiny peek at my developer life</b></summary>
+
+<br />
+
+| Quest | Status |
+| :--- | :--- |
+| Earn my Computer Science degree | 📚 In progress |
+| Become a software developer | 🚀 Leveling up |
+| Turn an idea into working code | 🛠️ One step at a time |
+| Figure out why it worked yesterday | 🐛 Side quest unlocked |
+
+</details>
+
+<br />
+
+---
+
+<div align="center">
+
+**Small steps. New skills. More things to build. 💜**
+
+Thanks for stopping by — let's connect and create something fun!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:F0ABFC&height=100&section=footer" width="100%" alt="" />
+
+</div>
+
